@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PivoWindow", "PivoWindow\PivoWindow.csproj", "{42E31906-23B4-483D-BFAB-43F2EB39DD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PivoLib", "PivoLib\PivoLib.csproj", "{DB77146B-E5FE-491E-ADBB-7D904AAD4ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E31906-23B4-483D-BFAB-43F2EB39DD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E31906-23B4-483D-BFAB-43F2EB39DD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E31906-23B4-483D-BFAB-43F2EB39DD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E31906-23B4-483D-BFAB-43F2EB39DD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB77146B-E5FE-491E-ADBB-7D904AAD4ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB77146B-E5FE-491E-ADBB-7D904AAD4ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB77146B-E5FE-491E-ADBB-7D904AAD4ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB77146B-E5FE-491E-ADBB-7D904AAD4ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CF0421-2832-48C9-BA0E-EC7B1A2B2D63}
+	EndGlobalSection
+EndGlobal
