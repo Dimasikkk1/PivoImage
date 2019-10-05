@@ -87,5 +87,10 @@
       <Name>PivoLib</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="bin\Debug\PivoLib.dll" />
+    <Content Include="bin\Debug\PivoWindow.exe" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
